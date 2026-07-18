@@ -1,0 +1,4 @@
+Tour Saltos del Petrohué;25000
+Tour Frutillar;18000
+Tour Lago Todos los Santos;35000
+Tour Volcán Osorno;42000

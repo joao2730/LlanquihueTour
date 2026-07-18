@@ -1,0 +1,3 @@
+Juan Pérez;12345678-9;Los Carrera 120;Llanquihue
+Marta Sanchez;98765432-1;San Martín 56;Puerto Varas
+Pedro Gómez;11222333-4;Colón 400;Puerto Montt
